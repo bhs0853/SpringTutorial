@@ -43,7 +43,7 @@ public class Todo {
     public void setTitle(String title) {
         this.title = title;
     }
-    public String toString(){
+    public String toString() {
         return "Todo{" +
                 "id = " + id + '\'' +
                 ",completed = " + completed + '\'' +
